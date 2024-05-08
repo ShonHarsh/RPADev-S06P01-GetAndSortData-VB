@@ -1,5 +1,5 @@
 ![](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
-# //Project Pending - I am still updating all of the projects for the RPA Developer Foundation.  In doing so I am updating the existing C# Windows Legacy project while also rewriting them in both C# Windows and VB Windows.  I complete at least one project a day.
+
 # S06P01 Get & Sort Data
 
 This project is my solution in **VB** to the **Get & Sort Data** practice found in section 06 practice 01 of the UiPath - RPA Developer Foundation course.
@@ -35,7 +35,13 @@ Create a workflow that generates 10 fake names along with their details and then
 ### Sample Output
 
 ```
-
+05/07/2024 16:46:32 => [Debug] Debug started for file: Main
+05/07/2024 16:46:32 => [Info] RPADev-S06P01-GetAndSortData-VB execution started
+05/07/2024 16:46:33 => [Info] RPADev-S06P01-GetAndSortData-VB.Main.Begin;
+05/07/2024 16:46:33 => [Debug] Audit: Using Web App. Browser: Firefox URL: https://www.fakepersongenerator.com/
+05/07/2024 16:47:11 => [Info] RPADev-S06P01-GetAndSortData-VB.Main.OperationCompleted; Customers: 10
+05/07/2024 16:47:11 => [Info] RPADev-S06P01-GetAndSortData-VB.Main.End;
+05/07/2024 16:47:11 => [Info] RPADev-S06P01-GetAndSortData-VB execution ended in: 00:00:36
 ```
 
 ### Architecture Requirements
